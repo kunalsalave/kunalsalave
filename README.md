@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Salave</h1>
-<h3 align="center">A Passionate Frontend & MERN Stack Developer | BSc IT Graduate</h3>
+<h3 align="center">A Passionate Frontend & MERN Stack Developer | BSc IT Graduate | MCA Student</h3>
 <h3 align="center">🚀 Turning ideas into impactful web experiences!</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ---
 
-- 🎓 Recently graduated with a **Bachelor of Science in Information Technology (BSc IT)**
+- 🎓 Completed **BSc IT (2025)** and currently pursuing **MCA (Master of Computer Applications)**
 - 🔭 Currently working on a **Hotel Booking System (MERN Stack)** and an **E-learning Platform**
 - 🌱 Exploring **TypeScript**, **Next.js**, and **MongoDB aggregation**
 - 💼 Actively seeking **React.js / Frontend / MERN Stack Developer** opportunities
@@ -56,8 +56,8 @@ TypeScript • Next.js • Zustand • Clerk Auth • MongoDB Aggregation • So
 
 ### 🏆 Achievements
 
-- 🎓 BSc IT Graduate - 2025
-- 💡 Built 4+ full-stack practical projects
+- 🎓 Completed **BSc IT (2025)** and pursuing **MCA (2025–2027)**
+- 💡 Built 4+ full-stack practical projects from scratch
 - 👨‍🏫 Mentored juniors in frontend development & React basics
 - 📈 Contributed to open-source and tech communities
 
@@ -68,7 +68,7 @@ TypeScript • Next.js • Zustand • Clerk Auth • MongoDB Aggregation • So
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kunal-salave-b469a926b/)
 - 💻 Portfolio: _Coming Soon_
 - 📧 Email: `kunalsalave2002@gmail.com`
-- 📝 [Resume (PDF)](https://your-resume-link.com) <!-- Update with your actual link -->
+- 📝 [Resume (PDF)](https://your-resume-link.com) <!-- Update with actual resume link -->
 
 ---
 
