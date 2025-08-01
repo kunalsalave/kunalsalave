@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78D1E&center=true&vCenter=true&width=435&lines=Frontend+Developer;React.js+%7C+Node.js+Enthusiast;Building+Web+Apps+that+Work+!" alt="Typing SVG" />
 </p>
 
-- 🎓 Recently graduated with a **Bachelor of Science in Information Technology (BSc IT)**
+- 🎓 Completed **BSc IT (2025)** and currently pursuing **MCA (Master of Computer Applications)**
 - 🔭 I’m currently working on a **Hotel Booking System (MERN Stack)** and **E-learning Platform**
 - 🌱 Exploring **TypeScript**, **Next.js**, and **MongoDB aggregation**
 - 💼 Actively looking for **React.js / Frontend / MERN Stack Developer** roles
