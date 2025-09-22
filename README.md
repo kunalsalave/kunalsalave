@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Salave</h1>
-<h3 align="center">A Passionate Frontend & Full Stack Developer | BSc IT Graduate</h3>
+<h3 align="center">
+A Passionate Frontend & Full Stack Developer | 🎓 BSc IT Graduate | 📚 MCA Pursuing
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78D1E&center=true&vCenter=true&width=435&lines=Frontend+Developer;React.js+%7C+Node.js+Enthusiast;Building+Web+Apps+that+Work+!" alt="Typing SVG" />
@@ -53,7 +55,7 @@
 ### 📫 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kunal-salave-b469a926b/)
-- 💻 Portfolio Website: ( kunalsalave](https://kunalsalave.vercel.app/ )
+- 💻 Portfolio Website: ( https://kunalsalave.vercel.app ) 
 - 📧 Email: kunalsalave2002@gmail.com
 
 ---
