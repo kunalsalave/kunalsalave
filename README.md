@@ -47,6 +47,7 @@ A Passionate Frontend & Full Stack Developer | 🎓 BSc IT Graduate | 📚 MCA P
 | **E-School Hub** | React, Framer Motion, React Router | E-learning UI for 1st standard kids, dynamic content |
 | **Expense Tracker** | React, Node.js, MongoDB | Budget management with charts and filters |
 | **Mini E-Commerce** | HTML, CSS, JS | Simple frontend product showcase and cart logic |
+| **Zomato Clone** | React, Node.js, MongoDB | Restaurant listing, search, menu, cart, order placement, reviews |
 
 🔗 [View all projects here »](#)
 
